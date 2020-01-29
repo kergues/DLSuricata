@@ -5,6 +5,11 @@ body {
     color:#212529;
     font-family: 'Open Sans', sans-serif;
 }
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
 h1 {
   font-weight: 700;
   font-size: 3.75em;
