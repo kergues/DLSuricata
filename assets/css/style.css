@@ -63,6 +63,12 @@ footer {
   .icons-section {
     display: none;
   }
+  h1 {
+    font-size: 2.75em;
+  }
+  .logo-footer {
+    width: 13%;
+  }
 }
 :root {
   --white: #ffffff;
